@@ -25,6 +25,6 @@ This project applies Gaussian Process regression to forecast daytime bike rental
 * A challenge encountered was the overall increase in demand from 2011 to 2012, which caused the test target mean to fall outside the expected range of the training data.
 
 ## Installation Instructions
-1. Clone the repository: `git clone https://github.com/alperkaya862-prog/Gaussian-Process-and-Uncertainty-for-Bike-Sharing-Demand-Forecasting`
+1. Clone the repository: `git clone https://github.com/alperkaya862-prog/Gaussian-Process-and-Uncertainty-for-Bike-Sharing-Demand-Forecasting.git`
 2. Install the required dependencies: `pip install pandas numpy scikit-learn matplotlib seaborn`
 3. Run the Jupyter Notebook to view the analysis and model evaluation.
